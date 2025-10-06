@@ -1,0 +1,6 @@
+*.xml
+*.pyc
+.idea/alastnew.iml
+*.gz
+/data
+/results
