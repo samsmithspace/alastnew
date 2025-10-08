@@ -246,5 +246,5 @@ def main():
 
 if __name__ == "__main__":
     # Choose which mode to run:
-    # main()  # Just run ALaST training on CIFAR-100
-    run_comparison()  # Run both traditional and ALaST training for comparison
+    main()  # Just run ALaST training on CIFAR-100
+    #run_comparison()  # Run both traditional and ALaST training for comparison
